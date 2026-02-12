@@ -1,0 +1,28 @@
+[
+  {
+    "id": "r1",
+    "name": "Camille Dupont",
+    "phone": "0611223344",
+    "email": "camille@example.com",
+    "service": "Pose Gel",
+    "duration": 90,
+    "comment": "Préférence nude",
+    "date": "2026-02-17",
+    "start": "10:00",
+    "end": "11:30",
+    "createdAt": "2026-01-10T10:00:00.000Z"
+  },
+  {
+    "id": "r2",
+    "name": "Sarah Martin",
+    "phone": "0677889900",
+    "email": "sarah@example.com",
+    "service": "Semi-permanent",
+    "duration": 60,
+    "comment": "",
+    "date": "2026-02-18",
+    "start": "15:00",
+    "end": "16:00",
+    "createdAt": "2026-01-11T09:30:00.000Z"
+  }
+]
