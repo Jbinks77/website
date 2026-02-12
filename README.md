@@ -1,4 +1,4 @@
-# Atelier Rosé — Site multi-pages Next.js
+# Eli Nails — Site multi-pages Next.js
 
 Site vitrine premium pour prothésiste ongulaire avec :
 - Accueil (`/`)

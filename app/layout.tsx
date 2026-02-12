@@ -7,11 +7,11 @@ import { Footer } from '@/components/Footer';
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
 
 export const metadata: Metadata = {
-  title: { default: 'Atelier Rosé | Prothésiste ongulaire premium', template: '%s | Atelier Rosé' },
-  description: 'Salon de pose d’ongles premium à Paris : gel, semi-permanent, nail art et réservations en ligne.',
+  title: { default: 'Eli Nails | Prothésiste ongulaire premium', template: '%s | Eli Nails' },
+  description: 'Salon de pose d’ongles premium à Maisse (91) : gel, semi-permanent, nail art et réservations en ligne.',
   openGraph: {
-    title: 'Atelier Rosé',
-    description: 'Prothésiste ongulaire premium à Paris',
+    title: 'Eli Nails',
+    description: 'Prothésiste ongulaire premium à Maisse (91)',
     type: 'website',
     locale: 'fr_FR'
   }
